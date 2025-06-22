@@ -26,7 +26,7 @@
 
 🔍 Em busca de oportunidades para atuar profissionalmente na área de tecnologia.
 
-📫 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/seu-link-aqui)
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/marcelo-gomes-santos/)
 
 ---
 
