@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Júnior** com foco em desenvolvimento web, análise de dados e automações.
 
-🚀 Trabalhando em projetos pessoais organizados por segmento:
+🚀 Explorando e desenvolvendo projetos pessoais
 
 #### 🧱 Back-end
 - Python
