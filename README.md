@@ -5,22 +5,24 @@
 🚀 Explorando e desenvolvendo projetos pessoais
 
 #### 🧱 Back-end
-- Python
-- Flask, Django
-- FastAPI (estudos iniciados)
+- PHP (Laravel, aprendizado ativo)
+- Python (Flask, Django)
+- FastAPI (estudos iniciais)
 
 #### 🎨 Front-end
 - HTML, CSS, JavaScript
+- Vue.js (planejamento de SPA para projeto pessoal)
 - React (aprendizado em andamento)
-- Tailwind CSS (aprendizado em andamento)
+- Tailwind CSS (estilização moderna)
 
 #### 📊 Dados e BI
 - Power BI
-- Análise de dados com Pandas e SQL (aprendizado em andamento)
+- Análise de dados com Pandas e SQL
 
 #### ☁️ DevOps e Cloud
-- Git e GitHub (controle de versão)
-- AWS e Google Cloud
+- Git e GitHub (controle de versão e versionamento de projetos)
+- Docker (configuração básica de ambientes)
+- AWS e Google Cloud (conceitos e primeiros experimentos)
 
 🌱 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
