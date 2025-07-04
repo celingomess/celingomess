@@ -22,17 +22,12 @@
 #### ☁️ DevOps e Cloud
 - Git e GitHub (controle de versão e versionamento de projetos)
 - Docker (configuração básica de ambientes)
-- AWS e Google Cloud 
-
-🌱 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+- AWS e Google Cloud
 
 🔍 Em busca de oportunidades para atuar profissionalmente na área de tecnologia.
 
-📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/marcelo-gomes-santos/) ou envie um e-mail para marcelogsantos.dev@gmail.com
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/marcelo-gomes-santos/) ou envie um e-mail para marcelogsantos.dev@gmail.
 
----
-
-_Obrigado por visitar meu perfil! Em breve mais atualizações por aqui._
 
 
 <!--
