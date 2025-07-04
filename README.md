@@ -5,15 +5,15 @@
 🚀 Explorando e desenvolvendo projetos pessoais
 
 #### 🧱 Back-end
-- PHP (Laravel, aprendizado ativo)
+- PHP (Laravel)
 - Python (Flask, Django)
-- FastAPI (estudos iniciais)
+- FastAPI
 
 #### 🎨 Front-end
 - HTML, CSS, JavaScript
-- Vue.js (planejamento de SPA para projeto pessoal)
-- React (aprendizado em andamento)
-- Tailwind CSS (estilização moderna)
+- Vue.js 
+- React 
+- Tailwind CSS 
 
 #### 📊 Dados e BI
 - Power BI
@@ -22,7 +22,7 @@
 #### ☁️ DevOps e Cloud
 - Git e GitHub (controle de versão e versionamento de projetos)
 - Docker (configuração básica de ambientes)
-- AWS e Google Cloud (conceitos e primeiros experimentos)
+- AWS e Google Cloud 
 
 🌱 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
