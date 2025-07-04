@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou o Marcelo Gomes
+### Olá! Eu sou o Marcelo Gomes
 
 💻 **Desenvolvedor Júnior** com foco em desenvolvimento web, análise de dados e automações.
 
